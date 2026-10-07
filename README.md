@@ -12,5 +12,5 @@ dotnet run
 
 ##Kontakt
 
-Autor: Nikodem
+Autor: Nikodemtest
 
