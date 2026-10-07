@@ -2,7 +2,7 @@
 
 Aplikacja konsolowa .NET stworzenia podczas laboratorium.
 
-## Uruchomienie
+## Uruchomienie z komenda .run
 
 ```bash
 dotnet run
