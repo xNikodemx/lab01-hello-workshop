@@ -3,6 +3,14 @@
 Aplikacja konsolowa .NET stworzenia podczas laboratorium.
 
 ## Uruchomienie
-\`\`\`bash
+
+```bash
 dotnet run
-\`\`\`
+```
+
+
+
+##Kontakt
+
+Autor: Nikodem
+
